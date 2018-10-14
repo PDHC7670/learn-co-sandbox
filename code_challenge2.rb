@@ -1,4 +1,4 @@
-def badge_maker(array)
+def badge_creator(array)
     new_arr = []
   
   array.each do |name|
@@ -10,4 +10,4 @@ end
 
 my_array = ["Edsger", "Ada", "Charles", "Alan", "Grace"]
 
-puts badge_maker(my_array)
+puts badge_creator(my_array)
