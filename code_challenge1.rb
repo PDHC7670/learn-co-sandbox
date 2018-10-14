@@ -8,7 +8,7 @@ def badge_maker(array)
 return new_arr
 end
 
-my_array = ["Edsger", "Jordan", "Jessica"]
+my_array = ["Edsger", "Ada", "Charles"]
 
 puts my_method(my_array)
 end
