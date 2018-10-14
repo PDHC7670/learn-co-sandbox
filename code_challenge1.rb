@@ -2,7 +2,7 @@ def badge_maker(array)
     new_arr = []
   
   array.each do |name|
-    new_arr << "My Name is #{name}"
+    new_arr << "Hello My Name is #{name}"
   end
   
 return new_arr
