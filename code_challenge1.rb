@@ -1,3 +1,4 @@
 def badge_maker(Arel)
- phrase = 
+ phrase = Hello, my name is Arel
 end
+badge_maker(Arel)
