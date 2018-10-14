@@ -1,4 +1,4 @@
-def badge_maker(Arel)
+def badge_maker
   
  puts Hello, my name is 
  
