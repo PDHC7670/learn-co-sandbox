@@ -11,4 +11,3 @@ end
 my_array = ["Edsger", "Ada", "Charles", "Alan", "Grace"]
 
 puts badge_maker(my_array)
-end
