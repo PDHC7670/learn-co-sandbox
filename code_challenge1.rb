@@ -1,6 +1,6 @@
-def badge_maker
+def badge_maker (Arel)
   
  puts "Hello, my name is" 
  
 end
-badge_maker(Arel)
+badge_maker
